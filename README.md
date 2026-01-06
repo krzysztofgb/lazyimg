@@ -27,7 +27,7 @@ Add module to site's config (e.g. `config.yaml`):
 ```yaml
 module:
   imports:
-  - path: github.com/hugo-mods/lazyimg
+  - path: github.com/krzysztofgb/lazyimg
 ```
 
 Get the module (also upgrades existing one):

@@ -1,4 +1,4 @@
-module github.com/hugo-mods/lazyimg
+module github.com/krzysztofgb/lazyimg
 
 go 1.13
 
